@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <plugin xmlns="http://apache.org/cordova/ns/plugins/1.0"
-        id="cordova-plugin-remove-googleservices" version="0.1.0">
+        id="cordova-plugin-remove-googleservices" version="0.1.1">
     <name>Hack to remove googleServices in meteor gradle build file</name>
     <description>Fixes the meteor/android error "Cannot add extension with name 'googleServices', as there is an extension already registered with that name."</description>
     <license>MIT</license>

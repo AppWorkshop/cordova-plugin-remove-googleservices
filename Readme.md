@@ -11,4 +11,4 @@ Cannot add extension with name 'googleServices', as there is an extension alread
 ```
 Specifically targeted at [an issue I experienced][1] in Meteor 2.6.1 but may apply to other cordova builds also.
 
-[1]:http://https://forums.meteor.com/t/mobile-app-generation-cordova-issues-with-2-5-1-solved/57199/2
+[1]:https://forums.meteor.com/t/mobile-app-generation-cordova-issues-with-2-5-1-solved/57199/2

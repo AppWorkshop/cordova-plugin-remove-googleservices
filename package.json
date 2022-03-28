@@ -1,6 +1,6 @@
 {
   "name": "cordova-plugin-remove-googleservices",
-  "version": "0.1.0",
+  "version": "0.1.1",
   "description": "Hack that fixes the meteor/android error \"Cannot add extension with name 'googleServices', as there is an extension already registered with that name.\"",
   "cordova": {
     "id": "cordova-plugin-comment-googleservices",
